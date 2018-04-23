@@ -1,0 +1,3783 @@
+[{
+		"id": "20180201-102629-0",
+		"titleDe": "PET",
+		"titleEn": "PET",
+		"executable": false,
+		"children": [{
+				"id": "20180201-102629-1",
+				"titleDe": "transparent",
+				"titleEn": "transparent",
+				"executable": false,
+				"children": [{
+						"id": "20180201-102629-2",
+						"titleDe": "unbehandelt",
+						"titleEn": "plain",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-3",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-4",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-5",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-6",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-7",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-8",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-9",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-10",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-11",
+								"titleDe": "< 12my",
+								"titleEn": "< 12my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-12",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-13",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-14",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-15",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-16",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-17",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-18",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-19",
+								"titleDe": "12my",
+								"titleEn": "12my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-20",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-21",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-22",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-23",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-24",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-25",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-26",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-27",
+								"titleDe": ">12-36my",
+								"titleEn": ">12-36my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-28",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-29",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-30",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-31",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-32",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-33",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-34",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-35",
+								"titleDe": ">36-100my",
+								"titleEn": ">36-100my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-36",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-37",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-38",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-39",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-40",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-41",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-42",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-43",
+								"titleDe": ">100my",
+								"titleEn": ">100my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-44",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-45",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-46",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-47",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-48",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-49",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-50",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}
+						]
+					}, {
+						"id": "20180201-102629-51",
+						"titleDe": "corona behandelt",
+						"titleEn": "corona treated",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-52",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-53",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-54",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-55",
+										"titleDe": "601-700mm",
+										"titleEn": "601-700mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-56",
+										"titleDe": "701-800mm",
+										"titleEn": "701-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-57",
+										"titleDe": "801-900mm",
+										"titleEn": "801-900mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-58",
+										"titleDe": "901-1000mm",
+										"titleEn": "901-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-59",
+										"titleDe": "1001-1100mm",
+										"titleEn": "1001-1100mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-60",
+										"titleDe": "1101-1200mm",
+										"titleEn": "1101-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-61",
+										"titleDe": "1201-1300mm",
+										"titleEn": "1201-1300mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-62",
+										"titleDe": "1301-1400mm",
+										"titleEn": "1301-1400mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-63",
+										"titleDe": "1401-1600mm",
+										"titleEn": "1401-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-64",
+										"titleDe": "1601-1800mm",
+										"titleEn": "1601-1800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-65",
+										"titleDe": "1801-2000mm",
+										"titleEn": "1801-2000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-66",
+										"titleDe": "2001-2400mm",
+										"titleEn": "2001-2400mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-67",
+										"titleDe": ">2400mm",
+										"titleEn": ">2400mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-68",
+								"titleDe": "< 12my",
+								"titleEn": "< 12my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-69",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-70",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-71",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-72",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-73",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-74",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-75",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-76",
+								"titleDe": "12my",
+								"titleEn": "12my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-77",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-78",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-79",
+										"titleDe": "601-700mm",
+										"titleEn": "601-700mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-80",
+										"titleDe": "701-800mm",
+										"titleEn": "701-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-81",
+										"titleDe": "801-900mm",
+										"titleEn": "801-900mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-82",
+										"titleDe": "901-1000mm",
+										"titleEn": "901-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-83",
+										"titleDe": "1001-1100mm",
+										"titleEn": "1001-1100mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-84",
+										"titleDe": "1101-1200mm",
+										"titleEn": "1101-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-85",
+										"titleDe": "1201-1300mm",
+										"titleEn": "1201-1300mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-86",
+										"titleDe": "1301-1400mm",
+										"titleEn": "1301-1400mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-87",
+										"titleDe": "1401-1600mm",
+										"titleEn": "1401-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-88",
+										"titleDe": "1601-1800mm",
+										"titleEn": "1601-1800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-89",
+										"titleDe": "1801-2000mm",
+										"titleEn": "1801-2000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-90",
+										"titleDe": "2001-2400mm",
+										"titleEn": "2001-2400mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-91",
+										"titleDe": ">2400mm",
+										"titleEn": ">2400mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-92",
+								"titleDe": ">12-36my",
+								"titleEn": ">12-36my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-93",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-94",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-95",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-96",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-97",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-98",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-99",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-100",
+								"titleDe": ">36-100my",
+								"titleEn": ">36-100my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-101",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-102",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-103",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-104",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-105",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-106",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-107",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-108",
+								"titleDe": ">100my",
+								"titleEn": ">100my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-109",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-110",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-111",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-112",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-113",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-114",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-115",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}
+						]
+					}, {
+						"id": "20180201-102629-116",
+						"titleDe": "acryl behandelt",
+						"titleEn": "acrylic treated",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-117",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-118",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-119",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-120",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-121",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-122",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-123",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-124",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-125",
+								"titleDe": "< 12my",
+								"titleEn": "< 12my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-126",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-127",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-128",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-129",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-130",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-131",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-132",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-133",
+								"titleDe": "12my",
+								"titleEn": "12my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-134",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-135",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-136",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-137",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-138",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-139",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-140",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-141",
+								"titleDe": ">12-36my",
+								"titleEn": ">12-36my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-142",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-143",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-144",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-145",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-146",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-147",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-148",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-149",
+								"titleDe": ">36-100my",
+								"titleEn": ">36-100my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-150",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-151",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-152",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-153",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-154",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-155",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-156",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-157",
+								"titleDe": ">100my",
+								"titleEn": ">100my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-158",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-159",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-160",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-161",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-162",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-163",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-164",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}
+						]
+					}, {
+						"id": "20180201-102629-165",
+						"titleDe": "copolymer behandelt",
+						"titleEn": "copolymer treated",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-166",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-167",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-168",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-169",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-170",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-171",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-172",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-173",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-174",
+								"titleDe": "< 12my",
+								"titleEn": "< 12my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-175",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-176",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-177",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-178",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-179",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-180",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-181",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-182",
+								"titleDe": "12my",
+								"titleEn": "12my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-183",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-184",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-185",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-186",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-187",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-188",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-189",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-190",
+								"titleDe": ">12-36my",
+								"titleEn": ">12-36my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-191",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-192",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-193",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-194",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-195",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-196",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-197",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-198",
+								"titleDe": ">36-100my",
+								"titleEn": ">36-100my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-199",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-200",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-201",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-202",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-203",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-204",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-205",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-206",
+								"titleDe": ">100my",
+								"titleEn": ">100my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-207",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-208",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-209",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-210",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-211",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-212",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-213",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}
+						]
+					}, {
+						"id": "20180201-102629-214",
+						"titleDe": "chemisch + corona",
+						"titleEn": "chemical + corona",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-215",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-216",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-217",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-218",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-219",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-220",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-221",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-222",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-223",
+								"titleDe": "< 12my",
+								"titleEn": "< 12my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-224",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-225",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-226",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-227",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-228",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-229",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-230",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-231",
+								"titleDe": "12my",
+								"titleEn": "12my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-232",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-233",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-234",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-235",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-236",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-237",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-238",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-239",
+								"titleDe": ">12-36my",
+								"titleEn": ">12-36my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-240",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-241",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-242",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-243",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-244",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-245",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-246",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-247",
+								"titleDe": ">36-100my",
+								"titleEn": ">36-100my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-248",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-249",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-250",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-251",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-252",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-253",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-254",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-255",
+								"titleDe": ">100my",
+								"titleEn": ">100my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-256",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-257",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-258",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-259",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-260",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-261",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-262",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}
+						]
+					}, {
+						"id": "20180201-102629-263",
+						"titleDe": "isotrop transparent",
+						"titleEn": "isotropic transparent",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-264",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-265",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-266",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-267",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-268",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-269",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-270",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-271",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-272",
+								"titleDe": "< 12my",
+								"titleEn": "< 12my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-273",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-274",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-275",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-276",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-277",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-278",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-279",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-280",
+								"titleDe": "12my",
+								"titleEn": "12my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-281",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-282",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-283",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-284",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-285",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-286",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-287",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-288",
+								"titleDe": ">12-36my",
+								"titleEn": ">12-36my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-289",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-290",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-291",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-292",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-293",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-294",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-295",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-296",
+								"titleDe": ">36-100my",
+								"titleEn": ">36-100my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-297",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-298",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-299",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-300",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-301",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-302",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-303",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-304",
+								"titleDe": ">100my",
+								"titleEn": ">100my",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-305",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-306",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-307",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-308",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-309",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-310",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-311",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}
+						]
+					}, {
+						"id": "20180201-102629-312",
+						"titleDe": "PVDC beschichtet",
+						"titleEn": "PVDC coated",
+						"executable": false,
+						"children": [{
+								"id": "20180201-102629-313",
+								"titleDe": "standard",
+								"titleEn": "standard",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-314",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-315",
+										"titleDe": "<600mm",
+										"titleEn": "<600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-316",
+										"titleDe": "601-800mm",
+										"titleEn": "601-800mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-317",
+										"titleDe": "801-1000mm",
+										"titleEn": "801-1000mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-318",
+										"titleDe": "1001-1200mm",
+										"titleEn": "1001-1200mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-319",
+										"titleDe": "1201-1600mm",
+										"titleEn": "1201-1600mm",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-320",
+										"titleDe": ">1600mm",
+										"titleEn": ">1600mm",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-321",
+								"titleDe": "sehr hohe Barriere",
+								"titleEn": "high barrier",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-322",
+								"titleDe": "pasteurisierbar",
+								"titleEn": "pasteurizable",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-323",
+								"titleDe": "1 Seite chemisch behandelt, 1 Seite PVDC",
+								"titleEn": "1sd chemical, 1sd PVDC",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-324",
+								"titleDe": "isotrop  PVDC",
+								"titleEn": "isotropic PVDC",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-325",
+								"titleDe": "isotrop  PVDC pasteurisierbar",
+								"titleEn": "isotropic PVDC pasteurisable",
+								"executable": true,
+								"children": null
+							}
+						]
+					}, {
+						"id": "20180201-102629-326",
+						"titleDe": "Spezialit\u00e4ten",
+						"titleEn": "specialties",
+						"executable": false,
+						"children": [{
+								"id": "20180201-102629-327",
+								"titleDe": "beidseitig chemisch",
+								"titleEn": "2 side chemically treated",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-328",
+								"titleDe": "sterilisierbar",
+								"titleEn": "retort",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-329",
+								"titleDe": "hoher COF",
+								"titleEn": "high COF",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-330",
+								"titleDe": "niedriger COF",
+								"titleEn": "low COF",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-331",
+								"titleDe": "Hitze - stabilisiert",
+								"titleEn": "heat stabilized",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-332",
+								"titleDe": "heiss-siegelbar",
+								"titleEn": "heatsealable",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-333",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-334",
+										"titleDe": "<20my",
+										"titleEn": "<20my",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-335",
+										"titleDe": "20-25my",
+										"titleEn": "20-25my",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-336",
+										"titleDe": ">25my",
+										"titleEn": ">25my",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-337",
+								"titleDe": "peelbar",
+								"titleEn": "peelable",
+								"executable": false,
+								"children": [{
+										"id": "20180201-102629-338",
+										"titleDe": "easy peel gegen PET",
+										"titleEn": "easy peel to PET",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-339",
+										"titleDe": "medium peel gegen PET",
+										"titleEn": "medium peel to PET",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-340",
+										"titleDe": "peel mit antifog",
+										"titleEn": "peel with antifog",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-341",
+										"titleDe": "peel gegen PE, PP",
+										"titleEn": "peel to PE, PP",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-342",
+								"titleDe": "f\u00fcr Dreheinschlag\/twist",
+								"titleEn": "twistable",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-343",
+								"titleDe": "schrumpfend",
+								"titleEn": "shrinkable",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-344",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-345",
+										"titleDe": "Schrumpf: hoch",
+										"titleEn": "high shrink",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-346",
+										"titleDe": "f\u00fcr Digitaldruck",
+										"titleEn": "for digital printing",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-347",
+								"titleDe": "for direct extrusion coating",
+								"titleEn": "for direct extrusion coating",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-348",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}
+								]
+							}
+						]
+					}
+				]
+			}, {
+				"id": "20180201-102629-349",
+				"titleDe": "metallisiert",
+				"titleEn": "metallized",
+				"executable": false,
+				"children": [{
+						"id": "20180201-102629-350",
+						"titleDe": "Metall-Haftung: standard",
+						"titleEn": "metal adhesion: standard",
+						"executable": false,
+						"children": [{
+								"id": "20180201-102629-351",
+								"titleDe": "transparente Seite: unbehandelt",
+								"titleEn": "transparent side: plain",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-352",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-353",
+										"titleDe": "standard Barriere (o.d. 2.0-2.2)",
+										"titleEn": "standard barrier  (o.d. 2.0-2.2)",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-354",
+										"titleDe": "mittlere   Barriere (o.d. 2.3-2.5)",
+										"titleEn": "medium barrier   (o.d. 2.3-2.5)",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-355",
+										"titleDe": "hohe       Barriere (o.d.  > 2.6)",
+										"titleEn": "high barrier         (o.d.  > 2.6)",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-356",
+								"titleDe": "transparente Seite: corona",
+								"titleEn": "transparent side: corona",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-357",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-358",
+										"titleDe": "standard Barriere (o.d. 2.0-2.2)",
+										"titleEn": "standard barrier  (o.d. 2.0-2.2)",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-359",
+										"titleDe": "mittlere   Barriere (o.d. 2.3-2.5)",
+										"titleEn": "medium barrier   (o.d. 2.3-2.5)",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-360",
+										"titleDe": "hohe       Barriere (o.d. > 2.6)",
+										"titleEn": "high barrier         (o.d.  > 2.6)",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-361",
+								"titleDe": "transparente Seite: chemisch",
+								"titleEn": "transparent side: chemical",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-362",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-363",
+										"titleDe": "standard Barriere (o.d. 2.0-2.2)",
+										"titleEn": "standard barrier  (o.d. 2.0-2.2)",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-364",
+										"titleDe": "mittlere   Barriere (o.d. 2.3-2.5)",
+										"titleEn": "medium barrier   (o.d. 2.3-2.5)",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-365",
+										"titleDe": "hohe       Barriere (o.d. > 2.6)",
+										"titleEn": "high barrier         (o.d.  > 2.6)",
+										"executable": true,
+										"children": null
+									}
+								]
+							}
+						]
+					}, {
+						"id": "20180201-102629-366",
+						"titleDe": "Metall-Haftung: mittel",
+						"titleEn": "metal adhesion: medium",
+						"executable": false,
+						"children": [{
+								"id": "20180201-102629-367",
+								"titleDe": "transparente Seite: unbehandelt",
+								"titleEn": "transparent side: plain",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-368",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-369",
+										"titleDe": "standard Barriere (o.d. 2.0-2.2)",
+										"titleEn": "standard barrier  (o.d. 2.0-2.2)",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-370",
+										"titleDe": "mittlere   Barriere (o.d. 2.3-2.5)",
+										"titleEn": "medium barrier   (o.d. 2.3-2.5)",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-371",
+										"titleDe": "hohe       Barriere (o.d. > 2.6)",
+										"titleEn": "high barrier         (o.d.  > 2.6)",
+										"executable": true,
+										"children": null
+									}
+								]
+							}
+						]
+					}, {
+						"id": "20180201-102629-372",
+						"titleDe": "Metall-Haftung: hoch",
+						"titleEn": "metal adhesion: high",
+						"executable": false,
+						"children": [{
+								"id": "20180201-102629-373",
+								"titleDe": "transparente Seite: unbehandelt",
+								"titleEn": "transparent side: plain",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-374",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-375",
+										"titleDe": "standard Barriere (o.d. 2.0-2.2)",
+										"titleEn": "standard barrier  (o.d. 2.0-2.2)",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-376",
+										"titleDe": "mittlere   Barriere (o.d. 2.3-2.5)",
+										"titleEn": "medium barrier   (o.d. 2.3-2.5)",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-377",
+										"titleDe": "hohe       Barriere (o.d. > 2.6)",
+										"titleEn": "high barrier         (o.d.  > 2.6)",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-378",
+								"titleDe": "transparente Seite: corona",
+								"titleEn": "transparent side: corona",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-379",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-380",
+										"titleDe": "standard Barriere (o.d. 2.0-2.2)",
+										"titleEn": "standard barrier  (o.d. 2.0-2.2)",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-381",
+										"titleDe": "mittlere   Barriere (o.d. 2.3-2.5)",
+										"titleEn": "medium barrier   (o.d. 2.3-2.5)",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-382",
+										"titleDe": "hohe       Barriere (o.d. > 2.6)",
+										"titleEn": "high barrier         (o.d.  > 2.6)",
+										"executable": true,
+										"children": null
+									}
+								]
+							}, {
+								"id": "20180201-102629-383",
+								"titleDe": "transparente Seite: chemisch",
+								"titleEn": "transparent side: chemical",
+								"executable": true,
+								"children": [{
+										"id": "20180201-102629-384",
+										"titleDe": "alle",
+										"titleEn": "all",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-385",
+										"titleDe": "standard Barriere (o.d. 2.0-2.2)",
+										"titleEn": "standard barrier  (o.d. 2.0-2.2)",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-386",
+										"titleDe": "mittlere   Barriere (o.d. 2.3-2.5)",
+										"titleEn": "medium barrier   (o.d. 2.3-2.5)",
+										"executable": true,
+										"children": null
+									}, {
+										"id": "20180201-102629-387",
+										"titleDe": "hohe       Barriere (o.d. 2.0-2.2)",
+										"titleEn": "high barrier         (o.d.  > 2.6)",
+										"executable": true,
+										"children": null
+									}
+								]
+							}
+						]
+					}, {
+						"id": "20180201-102629-388",
+						"titleDe": "Metall-Haftung: hervorragend",
+						"titleEn": "metal adhesion: supreme",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-389",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-390",
+								"titleDe": "sehr hohe Barriere",
+								"titleEn": "very high barrier",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-391",
+								"titleDe": "standard Barriere",
+								"titleEn": "standard barrier",
+								"executable": true,
+								"children": null
+							}
+						]
+					}, {
+						"id": "20180201-102629-392",
+						"titleDe": "isotrop",
+						"titleEn": "isotropic",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-393",
+								"titleDe": "all",
+								"titleEn": "all",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-394",
+								"titleDe": "<600mm",
+								"titleEn": "<600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-395",
+								"titleDe": "601-800mm",
+								"titleEn": "601-800mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-396",
+								"titleDe": "801-1000mm",
+								"titleEn": "801-1000mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-397",
+								"titleDe": "1001-1200mm",
+								"titleEn": "1001-1200mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-398",
+								"titleDe": "1201-1600mm",
+								"titleEn": "1201-1600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-399",
+								"titleDe": ">1600mm",
+								"titleEn": ">1600mm",
+								"executable": true,
+								"children": null
+							}
+						]
+					}, {
+						"id": "20180201-102629-400",
+						"titleDe": "spezielle Produkte",
+						"titleEn": "special products",
+						"executable": false,
+						"children": [{
+								"id": "20180201-102629-401",
+								"titleDe": "metallisiert matt",
+								"titleEn": "metallized matt",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-402",
+								"titleDe": "metallisiert twist (Dreheinschlag)",
+								"titleEn": "metallized twist",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-403",
+								"titleDe": "metallisiert beidseitig",
+								"titleEn": "2 sides metallized",
+								"executable": true,
+								"children": null
+							}
+						]
+					}
+				]
+			}, {
+				"id": "20180201-102629-404",
+				"titleDe": "hochklar",
+				"titleEn": "high clarity",
+				"executable": true,
+				"children": [{
+						"id": "20180201-102629-405",
+						"titleDe": "alle",
+						"titleEn": "all",
+						"executable": true,
+						"children": null
+					}, {
+						"id": "20180201-102629-406",
+						"titleDe": "unbehandelt",
+						"titleEn": "plain",
+						"executable": true,
+						"children": null
+					}, {
+						"id": "20180201-102629-407",
+						"titleDe": "einseitig chemisch",
+						"titleEn": "1 side  adhesion coated",
+						"executable": true,
+						"children": null
+					}, {
+						"id": "20180201-102629-408",
+						"titleDe": "beidseitig chemisch",
+						"titleEn": "2 sides adhesion coated",
+						"executable": true,
+						"children": null
+					}, {
+						"id": "20180201-102629-409",
+						"titleDe": "chemisch + antistatisch",
+						"titleEn": "chemical + antistatic",
+						"executable": true,
+						"children": null
+					}
+				]
+			}, {
+				"id": "20180201-102629-410",
+				"titleDe": "matt",
+				"titleEn": "matt",
+				"executable": true,
+				"children": [{
+						"id": "20180201-102629-411",
+						"titleDe": "alle",
+						"titleEn": "all",
+						"executable": true,
+						"children": null
+					}, {
+						"id": "20180201-102629-412",
+						"titleDe": "standard matt + unbehandelt",
+						"titleEn": "standard matt + plain",
+						"executable": true,
+						"children": null
+					}, {
+						"id": "20180201-102629-413",
+						"titleDe": "standard matt + chemisch",
+						"titleEn": "standard matt + chemical",
+						"executable": true,
+						"children": null
+					}, {
+						"id": "20180201-102629-414",
+						"titleDe": "mittel matt",
+						"titleEn": "medium matt",
+						"executable": true,
+						"children": null
+					}, {
+						"id": "20180201-102629-415",
+						"titleDe": "hoch matt",
+						"titleEn": "high matt",
+						"executable": true,
+						"children": null
+					}
+				]
+			}, {
+				"id": "20180201-102629-416",
+				"titleDe": "tr\u00fcb + milchig weiss (transluzent)",
+				"titleEn": "hazy + milky white",
+				"executable": false,
+				"children": [{
+						"id": "20180201-102629-417",
+						"titleDe": "hohe Tr\u00fcbung",
+						"titleEn": "high haze",
+						"executable": true,
+						"children": null
+					}, {
+						"id": "20180201-102629-418",
+						"titleDe": "milchig weiss (transluzent)",
+						"titleEn": "milky white (translucent)",
+						"executable": true,
+						"children": null
+					}
+				]
+			}, {
+				"id": "20180201-102629-419",
+				"titleDe": "weiss opak",
+				"titleEn": "white opaque",
+				"executable": false,
+				"children": [{
+						"id": "20180201-102629-420",
+						"titleDe": "unbehandelt",
+						"titleEn": "plain",
+						"executable": true,
+						"children": null
+					}, {
+						"id": "20180201-102629-421",
+						"titleDe": "chemisch behandelt",
+						"titleEn": "adhesion treated",
+						"executable": true,
+						"children": null
+					}, {
+						"id": "20180201-102629-422",
+						"titleDe": "alle",
+						"titleEn": "all",
+						"executable": false,
+						"children": null
+					}, {
+						"id": "20180201-102629-423",
+						"titleDe": "12 my",
+						"titleEn": "12my",
+						"executable": true,
+						"children": null
+					}, {
+						"id": "20180201-102629-424",
+						"titleDe": "23-50 my",
+						"titleEn": "23-50 my",
+						"executable": true,
+						"children": null
+					}, {
+						"id": "20180201-102629-425",
+						"titleDe": ">75my",
+						"titleEn": ">75my",
+						"executable": true,
+						"children": null
+					}, {
+						"id": "20180201-102629-426",
+						"titleDe": "weiss metallisiert",
+						"titleEn": "metallized white",
+						"executable": true,
+						"children": null
+					}, {
+						"id": "20180201-102629-427",
+						"titleDe": "Deckelfolie",
+						"titleEn": "lidding film",
+						"executable": true,
+						"children": null
+					}
+				]
+			}, {
+				"id": "20180201-102629-428",
+				"titleDe": "gelbe Folien",
+				"titleEn": "yellow",
+				"executable": false,
+				"children": [{
+						"id": "20180201-102629-429",
+						"titleDe": "gelb unbehandelt",
+						"titleEn": "yellow plain",
+						"executable": true,
+						"children": null
+					}, {
+						"id": "20180201-102629-430",
+						"titleDe": "gold metallisiert unbehandelt",
+						"titleEn": "gold metallised plain",
+						"executable": true,
+						"children": null
+					}, {
+						"id": "20180201-102629-431",
+						"titleDe": "Deckelfolie",
+						"titleEn": "lidding film",
+						"executable": true,
+						"children": null
+					}
+				]
+			}
+		]
+	}, {
+		"id": "20180201-102629-432",
+		"titleDe": "OPA",
+		"titleEn": "OPA",
+		"executable": false,
+		"children": [{
+				"id": "20180201-102629-433",
+				"titleDe": "corona behandelt 1 Seite",
+				"titleEn": "corona treated 1 side",
+				"executable": true,
+				"children": [{
+						"id": "20180201-102629-434",
+						"titleDe": "alle",
+						"titleEn": "all",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-435",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-436",
+								"titleDe": "<600mm",
+								"titleEn": "<600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-437",
+								"titleDe": "601-700mm",
+								"titleEn": "601-700mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-438",
+								"titleDe": "701-800mm",
+								"titleEn": "701-800mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-439",
+								"titleDe": "801-900mm",
+								"titleEn": "801-900mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-440",
+								"titleDe": "901-1000mm",
+								"titleEn": "901-1000mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-441",
+								"titleDe": "1001-1100mm",
+								"titleEn": "1001-1100mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-442",
+								"titleDe": "1101-1200mm",
+								"titleEn": "1101-1200mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-443",
+								"titleDe": "1201-1400mm",
+								"titleEn": "1201-1400mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-444",
+								"titleDe": "1401-1600mm",
+								"titleEn": "1401-1600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-445",
+								"titleDe": ">1600mm",
+								"titleEn": ">1600mm",
+								"executable": true,
+								"children": null
+							}
+						]
+					}, {
+						"id": "20180201-102629-446",
+						"titleDe": "12my",
+						"titleEn": "12my",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-447",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-448",
+								"titleDe": "<600mm",
+								"titleEn": "<600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-449",
+								"titleDe": "601-800mm",
+								"titleEn": "601-800mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-450",
+								"titleDe": "801-1000mm",
+								"titleEn": "801-1000mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-451",
+								"titleDe": "1001-1200mm",
+								"titleEn": "1001-1200mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-452",
+								"titleDe": "1201-1600mm",
+								"titleEn": "1201-1600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-453",
+								"titleDe": ">1600mm",
+								"titleEn": ">1600mm",
+								"executable": true,
+								"children": null
+							}
+						]
+					}, {
+						"id": "20180201-102629-454",
+						"titleDe": "15my",
+						"titleEn": "15my",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-455",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-456",
+								"titleDe": "<600mm",
+								"titleEn": "<600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-457",
+								"titleDe": "601-700mm",
+								"titleEn": "601-700mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-458",
+								"titleDe": "701-800mm",
+								"titleEn": "701-800mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-459",
+								"titleDe": "801-900mm",
+								"titleEn": "801-900mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-460",
+								"titleDe": "901-1000mm",
+								"titleEn": "901-1000mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-461",
+								"titleDe": "1001-1100mm",
+								"titleEn": "1001-1100mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-462",
+								"titleDe": "1101-1200mm",
+								"titleEn": "1101-1200mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-463",
+								"titleDe": "1201-1300mm",
+								"titleEn": "1201-1300mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-464",
+								"titleDe": "1301-1400mm",
+								"titleEn": "1301-1400mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-465",
+								"titleDe": "1401-1600mm",
+								"titleEn": "1401-1600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-466",
+								"titleDe": ">1600mm",
+								"titleEn": ">1600mm",
+								"executable": true,
+								"children": null
+							}
+						]
+					}, {
+						"id": "20180201-102629-467",
+						"titleDe": "20+25my",
+						"titleEn": "20+25my",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-468",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-469",
+								"titleDe": "<600mm",
+								"titleEn": "<600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-470",
+								"titleDe": "601-800mm",
+								"titleEn": "601-800mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-471",
+								"titleDe": "801-1000mm",
+								"titleEn": "801-1000mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-472",
+								"titleDe": "1001-1200mm",
+								"titleEn": "1001-1200mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-473",
+								"titleDe": "1201-1600mm",
+								"titleEn": "1201-1600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-474",
+								"titleDe": ">1600mm",
+								"titleEn": ">1600mm",
+								"executable": true,
+								"children": null
+							}
+						]
+					}
+				]
+			}, {
+				"id": "20180201-102629-475",
+				"titleDe": "corona behandelt 2 Seiten",
+				"titleEn": "corona treated 2 side",
+				"executable": true,
+				"children": [{
+						"id": "20180201-102629-476",
+						"titleDe": "alle",
+						"titleEn": "all",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-477",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-478",
+								"titleDe": "<600mm",
+								"titleEn": "<600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-479",
+								"titleDe": "601-800mm",
+								"titleEn": "601-800mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-480",
+								"titleDe": "801-1000mm",
+								"titleEn": "801-1000mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-481",
+								"titleDe": "1001-1200mm",
+								"titleEn": "1001-1200mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-482",
+								"titleDe": "1201-1600mm",
+								"titleEn": "1201-1600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-483",
+								"titleDe": ">1600mm",
+								"titleEn": ">1600mm",
+								"executable": true,
+								"children": null
+							}
+						]
+					}, {
+						"id": "20180201-102629-484",
+						"titleDe": "12my",
+						"titleEn": "12my",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-485",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-486",
+								"titleDe": "<600mm",
+								"titleEn": "<600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-487",
+								"titleDe": "601-800mm",
+								"titleEn": "601-800mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-488",
+								"titleDe": "801-1000mm",
+								"titleEn": "801-1000mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-489",
+								"titleDe": "1001-1200mm",
+								"titleEn": "1001-1200mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-490",
+								"titleDe": "1201-1600mm",
+								"titleEn": "1201-1600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-491",
+								"titleDe": ">1600mm",
+								"titleEn": ">1600mm",
+								"executable": true,
+								"children": null
+							}
+						]
+					}, {
+						"id": "20180201-102629-492",
+						"titleDe": "15my",
+						"titleEn": "15my",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-493",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-494",
+								"titleDe": "<600mm",
+								"titleEn": "<600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-495",
+								"titleDe": "601-800mm",
+								"titleEn": "601-800mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-496",
+								"titleDe": "801-1000mm",
+								"titleEn": "801-1000mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-497",
+								"titleDe": "1001-1200mm",
+								"titleEn": "1001-1200mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-498",
+								"titleDe": "1201-1600mm",
+								"titleEn": "1201-1600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-499",
+								"titleDe": ">1600mm",
+								"titleEn": ">1600mm",
+								"executable": true,
+								"children": null
+							}
+						]
+					}, {
+						"id": "20180201-102629-500",
+						"titleDe": "20+25my",
+						"titleEn": "20+25my",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-501",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-502",
+								"titleDe": "<600mm",
+								"titleEn": "<600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-503",
+								"titleDe": "601-800mm",
+								"titleEn": "601-800mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-504",
+								"titleDe": "801-1000mm",
+								"titleEn": "801-1000mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-505",
+								"titleDe": "1001-1200mm",
+								"titleEn": "1001-1200mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-506",
+								"titleDe": "1201-1600mm",
+								"titleEn": "1201-1600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-507",
+								"titleDe": ">1600mm",
+								"titleEn": ">1600mm",
+								"executable": true,
+								"children": null
+							}
+						]
+					}
+				]
+			}, {
+				"id": "20180201-102629-508",
+				"titleDe": "dimensionsstabil",
+				"titleEn": "dimensional stable",
+				"executable": true,
+				"children": null
+			}, {
+				"id": "20180201-102629-509",
+				"titleDe": "chemisch behandelt",
+				"titleEn": "chemically treated",
+				"executable": true,
+				"children": null
+			}
+		]
+	}, {
+		"id": "20180201-102629-510",
+		"titleDe": "BOPP",
+		"titleEn": "BOPP",
+		"executable": false,
+		"children": [{
+				"id": "20180201-102629-511",
+				"titleDe": "nicht siegelbar",
+				"titleEn": "non sealable",
+				"executable": true,
+				"children": null
+			}, {
+				"id": "20180201-102629-512",
+				"titleDe": "siegelbar + corona",
+				"titleEn": "sealable + corona",
+				"executable": true,
+				"children": null
+			}, {
+				"id": "20180201-102629-513",
+				"titleDe": "metallisiert",
+				"titleEn": "metallized",
+				"executable": true,
+				"children": null
+			}
+		]
+	}, {
+		"id": "20180201-102629-514",
+		"titleDe": "Aluminium",
+		"titleEn": "Aluminium",
+		"executable": false,
+		"children": [{
+				"id": "20180201-102629-515",
+				"titleDe": "Alloy 1235, temper O",
+				"titleEn": "Alloy 1235, temper O",
+				"executable": true,
+				"children": [{
+						"id": "20180201-102629-516",
+						"titleDe": "alle",
+						"titleEn": "all",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-517",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-518",
+								"titleDe": "<600mm",
+								"titleEn": "<600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-519",
+								"titleDe": "601-800mm",
+								"titleEn": "601-800mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-520",
+								"titleDe": "801-1000mm",
+								"titleEn": "801-1000mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-521",
+								"titleDe": "1001-1200mm",
+								"titleEn": "1001-1200mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-522",
+								"titleDe": "1201-1600mm",
+								"titleEn": "1201-1600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-523",
+								"titleDe": ">1600mm",
+								"titleEn": ">1600mm",
+								"executable": true,
+								"children": null
+							}
+						]
+					}, {
+						"id": "20180201-102629-524",
+						"titleDe": "6.0-6.9my",
+						"titleEn": "6.0-6.9my",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-525",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-526",
+								"titleDe": "<600mm",
+								"titleEn": "<600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-527",
+								"titleDe": "601-800mm",
+								"titleEn": "601-800mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-528",
+								"titleDe": "801-1000mm",
+								"titleEn": "801-1000mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-529",
+								"titleDe": "1001-1200mm",
+								"titleEn": "1001-1200mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-530",
+								"titleDe": "1201-1600mm",
+								"titleEn": "1201-1600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-531",
+								"titleDe": ">1600mm",
+								"titleEn": ">1600mm",
+								"executable": true,
+								"children": null
+							}
+						]
+					}, {
+						"id": "20180201-102629-532",
+						"titleDe": "7my",
+						"titleEn": "7my",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-533",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-534",
+								"titleDe": "<600mm",
+								"titleEn": "<600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-535",
+								"titleDe": "601-800mm",
+								"titleEn": "601-800mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-536",
+								"titleDe": "801-1000mm",
+								"titleEn": "801-1000mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-537",
+								"titleDe": "1001-1200mm",
+								"titleEn": "1001-1200mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-538",
+								"titleDe": "1201-1600mm",
+								"titleEn": "1201-1600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-539",
+								"titleDe": ">1600mm",
+								"titleEn": ">1600mm",
+								"executable": true,
+								"children": null
+							}
+						]
+					}, {
+						"id": "20180201-102629-540",
+						"titleDe": "8my",
+						"titleEn": "8my",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-541",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-542",
+								"titleDe": "<600mm",
+								"titleEn": "<600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-543",
+								"titleDe": "601-800mm",
+								"titleEn": "601-800mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-544",
+								"titleDe": "801-1000mm",
+								"titleEn": "801-1000mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-545",
+								"titleDe": "1001-1200mm",
+								"titleEn": "1001-1200mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-546",
+								"titleDe": "1201-1600mm",
+								"titleEn": "1201-1600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-547",
+								"titleDe": ">1600mm",
+								"titleEn": ">1600mm",
+								"executable": true,
+								"children": null
+							}
+						]
+					}, {
+						"id": "20180201-102629-548",
+						"titleDe": "9my",
+						"titleEn": "9my",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-549",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-550",
+								"titleDe": "<600mm",
+								"titleEn": "<600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-551",
+								"titleDe": "601-800mm",
+								"titleEn": "601-800mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-552",
+								"titleDe": "801-1000mm",
+								"titleEn": "801-1000mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-553",
+								"titleDe": "1001-1200mm",
+								"titleEn": "1001-1200mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-554",
+								"titleDe": "1201-1600mm",
+								"titleEn": "1201-1600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-555",
+								"titleDe": ">1600mm",
+								"titleEn": ">1600mm",
+								"executable": true,
+								"children": null
+							}
+						]
+					}, {
+						"id": "20180201-102629-556",
+						"titleDe": ">9my",
+						"titleEn": ">9my",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-557",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-558",
+								"titleDe": "<600mm",
+								"titleEn": "<600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-559",
+								"titleDe": "601-800mm",
+								"titleEn": "601-800mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-560",
+								"titleDe": "801-1000mm",
+								"titleEn": "801-1000mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-561",
+								"titleDe": "1001-1200mm",
+								"titleEn": "1001-1200mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-562",
+								"titleDe": "1201-1600mm",
+								"titleEn": "1201-1600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-563",
+								"titleDe": ">1600mm",
+								"titleEn": ">1600mm",
+								"executable": true,
+								"children": null
+							}
+						]
+					}
+				]
+			}, {
+				"id": "20180201-102629-564",
+				"titleDe": "Alloy 8079, temper O",
+				"titleEn": "Alloy 8079, temper O",
+				"executable": true,
+				"children": [{
+						"id": "20180201-102629-565",
+						"titleDe": "alle",
+						"titleEn": "all",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-566",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-567",
+								"titleDe": "<600mm",
+								"titleEn": "<600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-568",
+								"titleDe": "601-800mm",
+								"titleEn": "601-800mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-569",
+								"titleDe": "801-1000mm",
+								"titleEn": "801-1000mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-570",
+								"titleDe": "1001-1200mm",
+								"titleEn": "1001-1200mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-571",
+								"titleDe": "1201-1600mm",
+								"titleEn": "1201-1600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-572",
+								"titleDe": ">1600mm",
+								"titleEn": ">1600mm",
+								"executable": true,
+								"children": null
+							}
+						]
+					}, {
+						"id": "20180201-102629-573",
+						"titleDe": "6.0-6.9my",
+						"titleEn": "6.0-6.9my",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-574",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-575",
+								"titleDe": "<600mm",
+								"titleEn": "<600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-576",
+								"titleDe": "601-800mm",
+								"titleEn": "601-800mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-577",
+								"titleDe": "801-1000mm",
+								"titleEn": "801-1000mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-578",
+								"titleDe": "1001-1200mm",
+								"titleEn": "1001-1200mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-579",
+								"titleDe": "1201-1600mm",
+								"titleEn": "1201-1600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-580",
+								"titleDe": ">1600mm",
+								"titleEn": ">1600mm",
+								"executable": true,
+								"children": null
+							}
+						]
+					}, {
+						"id": "20180201-102629-581",
+						"titleDe": "7my",
+						"titleEn": "7my",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-582",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-583",
+								"titleDe": "<600mm",
+								"titleEn": "<600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-584",
+								"titleDe": "601-800mm",
+								"titleEn": "601-800mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-585",
+								"titleDe": "801-1000mm",
+								"titleEn": "801-1000mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-586",
+								"titleDe": "1001-1200mm",
+								"titleEn": "1001-1200mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-587",
+								"titleDe": "1201-1600mm",
+								"titleEn": "1201-1600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-588",
+								"titleDe": ">1600mm",
+								"titleEn": ">1600mm",
+								"executable": true,
+								"children": null
+							}
+						]
+					}, {
+						"id": "20180201-102629-589",
+						"titleDe": "8my",
+						"titleEn": "8my",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-590",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-591",
+								"titleDe": "<600mm",
+								"titleEn": "<600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-592",
+								"titleDe": "601-800mm",
+								"titleEn": "601-800mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-593",
+								"titleDe": "801-1000mm",
+								"titleEn": "801-1000mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-594",
+								"titleDe": "1001-1200mm",
+								"titleEn": "1001-1200mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-595",
+								"titleDe": "1201-1600mm",
+								"titleEn": "1201-1600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-596",
+								"titleDe": ">1600mm",
+								"titleEn": ">1600mm",
+								"executable": true,
+								"children": null
+							}
+						]
+					}, {
+						"id": "20180201-102629-597",
+						"titleDe": "9my",
+						"titleEn": "9my",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-598",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-599",
+								"titleDe": "<600mm",
+								"titleEn": "<600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-600",
+								"titleDe": "601-800mm",
+								"titleEn": "601-800mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-601",
+								"titleDe": "801-1000mm",
+								"titleEn": "801-1000mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-602",
+								"titleDe": "1001-1200mm",
+								"titleEn": "1001-1200mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-603",
+								"titleDe": "1201-1600mm",
+								"titleEn": "1201-1600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-604",
+								"titleDe": ">1600mm",
+								"titleEn": ">1600mm",
+								"executable": true,
+								"children": null
+							}
+						]
+					}, {
+						"id": "20180201-102629-605",
+						"titleDe": ">9my",
+						"titleEn": ">9my",
+						"executable": true,
+						"children": [{
+								"id": "20180201-102629-606",
+								"titleDe": "alle",
+								"titleEn": "all",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-607",
+								"titleDe": "<600mm",
+								"titleEn": "<600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-608",
+								"titleDe": "601-800mm",
+								"titleEn": "601-800mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-609",
+								"titleDe": "801-1000mm",
+								"titleEn": "801-1000mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-610",
+								"titleDe": "1001-1200mm",
+								"titleEn": "1001-1200mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-611",
+								"titleDe": "1201-1600mm",
+								"titleEn": "1201-1600mm",
+								"executable": true,
+								"children": null
+							}, {
+								"id": "20180201-102629-612",
+								"titleDe": ">1600mm",
+								"titleEn": ">1600mm",
+								"executable": true,
+								"children": null
+							}
+						]
+					}
+				]
+			}
+		]
+	}, {
+		"id": "20180201-102629-613",
+		"titleDe": "Reserviert",
+		"titleEn": "Reserved",
+		"executable": true,
+		"children": null
+	}
+]
