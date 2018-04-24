@@ -1,7 +1,7 @@
 /*------------------------------------*\
     $HOUSEKEEPING
 \*------------------------------------*/
-*{ margin:0; padding:0; }
+*{ margin:0; padding:0; box-sizing: border-box; }
 html{
     padding:5%;
     font-family:"Avenir", Helvetica, serif;
@@ -104,10 +104,17 @@ a{
     left: 100%;
     top: 0;
 }
-/* Alternative flyouts sit all the way from the left, flush top. */
-.flyout-alt:hover > .flyout-content{
-    top:100%;
-    left: 100%;
+
+/* HOVER ONLY ON DESKTOP BROS */
+
+@media only screen and (min-width: 1024px) {
+
+  /* Alternative flyouts sit all the way from the left, flush top. */
+  .flyout-alt:hover > .flyout-content{
+      top:100%;
+      left: 100%;
+  }
+
 }
 
 .clicked > .flyout-content{
@@ -115,7 +122,6 @@ a{
     height:auto;
     overflow:visible;
 }
-
 
 
 
@@ -132,10 +138,13 @@ a{
 }
 .site-nav a{
     line-height:1;
-    padding:1em;
+    padding: 13px;
     background-color: #f1f2f2;
     color: #868686;
     white-space:nowrap;
+    white-space: normal;
+    min-width: 193px;
+    width: 193px;
 }
 
 /*--- SITE-NAV FLYOUTS ---*/
@@ -146,10 +155,11 @@ a{
  */
 .site-nav .flyout:hover > a /* [1] */,
 .site-nav .flyout-alt:hover > a /* [1] */,
-
 .site-nav .clicked > a{
     background-color:#e5e5e5;
     color:#868686;
+    background-color: #8ebde4;
+    color: white;
 }
 
 /**
@@ -173,7 +183,7 @@ a{
     #fff  /* [3] */;
 }
 .site-nav > li > a{
-    border-left-width:1px; /* [4] */
+    /* border-left-width:1px; /* [4] */ */
 }
 /* The first link in the site-nav doesn’t require a border at all. */
 .site-nav > li:first-child > a{
@@ -181,6 +191,9 @@ a{
 }
 .site-nav .flyout-content{
     /*border-width:1px 0 0 1px; */ /* [4] */
+    background-color: #f1f2f2;
+    height: 100%;
+    border-left: 6px solid white;
 }
 .site-nav .flyout-content a{
     border-bottom-width:0px; /* [4] */
@@ -193,28 +206,19 @@ a{
     top:0px;
 }
 
-.clicked a:after {
-    /* width: 0;
-    height: 0;
-    border-style: solid;
-    border-width: 24px 0 21px 8px;
-    border-color: transparent transparent transparent #f1f2f2;
-    border-color: red;
-    line-height: 0px;
-    position: absolute;
-    display: inline-block;
-    left: -16px;
-    top: 0;
-    bottom: 0; */
-}
-
-.clicked a {
+.site-nav a {
   display: inline-block;
 	position: relative;
-	background: #e5e5e5;
-	border: 3px solid #ffffff;
+	background: #f1f2f2;
+	border: 0px solid #ffffff;
+  padding-left: 24px;
 }
-.clicked a:after, .clicked a:before {
+
+/* Arrow for Desktop */
+
+@media only screen and (min-width: 1024px) {
+
+.clicked > a:after, .clicked > a:before {
 	left: 100%;
 	top: 50%;
 	border: solid transparent;
@@ -222,20 +226,22 @@ a{
 	height: 0;
 	width: 0;
 	position: absolute;
+  z-index: 10000;
 	pointer-events: none;
 }
-
-.clicked a:after {
+.clicked > a:after {
 	border-color: rgba(241, 242, 242, 0);
-	border-left-color: #e5e5e5;
+	border-left-color: #8ebde4;
 	border-width: 20px;
 	margin-top: -20px;
 }
-.clicked a:before {
+.clicked > a:before {
 	border-color: rgba(255, 255, 255, 0);
 	border-left-color: #ffffff;
-	border-width: 24px;
-	margin-top: -24px;
+	border-width: 28px;
+	margin-top: -28px;
+}
+
 }
 
 /* First items first (BIG) */
@@ -245,7 +251,7 @@ a{
   font-weight: bold;
   padding: 16px 32px;
   /* margin-top: 5px; */
-  border:  3px solid white;
+  border: 3px solid white;
 }
 
 .site-nav .first-item img {
@@ -256,4 +262,86 @@ a{
   display: inline-block;
   vertical-align: top;
   padding-top: 24px;
+}
+
+/* Wrapper */
+
+#ms-wrapper {
+  /* background-color: #f1f2f2; */
+}
+
+/* Mobile */
+
+@media only screen and (max-width: 1023px) {
+  .site-nav {
+    width: 100%;
+  }
+  .site-nav .flyout {
+    display: block;
+    width: 100%;
+    border-bottom: 6px solid white;
+  }
+  .site-nav .flyout-content {
+    display: block;
+    width: 100%;
+    border-left: 0;
+    border-top: 6px solid white;
+  }
+  .site-nav a {
+    display: block;
+    width: 100%;
+  }
+  .site-nav .clicked {
+    display: block;
+    width: 100%;
+    border-bottom: 6px solid white;
+  }
+  .clicked > a:after, .clicked > a:before {
+    top: 100%;
+  	left: 50%;
+  	border: solid transparent;
+  	content: " ";
+  	height: 0;
+  	width: 0;
+  	position: absolute;
+  	pointer-events: none;
+    z-index: 10000;
+  }
+  .clicked > a:after {
+    border-color: rgba(142, 189, 228, 0);
+  	border-top-color: #8ebde4;
+  	border-width: 20px;
+  	margin-left: -20px;
+  }
+  .clicked > a:before {
+    border-color: rgba(255, 255, 255, 0);
+  	border-top-color: #ffffff;
+  	border-width: 28px;
+  	margin-left: -28px;
+  }
+  /**
+   * Bring the flyouts into view when you hover their parents.
+   * Two different types of flyout; ‘regular’ (`.flyout`) and ‘alternative’ (`.flyout-alt`).
+   */
+  /* Regular flyouts sit all the way from the top, flush left. */
+  .clicked > .flyout-content{
+      left: 0;
+      top: 0;
+  }
+  /* Alternative flyouts sit all the way from the left, flush top. */
+  /* .site-nav .flyout-alt:hover > .flyout-content{
+      top:100%;
+      left: 0;
+      position: static;
+  } */
+  .flyout-alt {
+    position: static;
+  }
+
+  .clicked > .flyout-content{
+      /* Give the flyouts their height back once they come into view. */
+      height:auto;
+      overflow:visible;
+      position: static;
+  }
 }
