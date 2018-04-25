@@ -6,9 +6,9 @@ const locale = 'de'; // 'set to 'en' for english localisation
 const headlines = {
     de: {
         PET: ['Typ', 'Farbe', 'Beschichtung', 'Auswahl 4', 'Auswahl 5'],
-        OPA: ['Typ', 'Auswahl2', 'Beschichtung', 'Auswahl 4', 'Auswahl 5'],
+        OPA: ['Typ', 'Behandlung', 'Stärke', 'Auswahl 4', 'Auswahl 5'],
         BOPP: ['Typ', 'Farbe', 'Beschichtung', 'Auswahl 4', 'Auswahl 5'],
-        Aluminium: ['Typ', 'Farbe', 'Beschichtung', 'Auswahl 4', 'Auswahl 5'],
+        Aluminium: ['Typ', 'Farbe', 'Stärke', 'Breite', 'Auswahl 5'],
         Reserviert: ['Typ']
     },
     en: {
