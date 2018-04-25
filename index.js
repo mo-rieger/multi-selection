@@ -1,4 +1,8 @@
 const locale = 'de'; // 'set to 'en' for english localisation
+/**
+ *
+ * @type {{de: {PET: string[], OPA: string[], BOPP: string[], Aluminium: string[], Reserviert: string[]}, en: {PET: string[], OPA: string[], BOPP: string[], Aluminium: string[], Reserved: string[]}}}
+ */
 const headlines = {
     de: {
         PET: ['Typ', 'Farbe', 'Beschichtung', 'Auswahl 4', 'Auswahl 5'],
@@ -15,41 +19,55 @@ const headlines = {
         Reserved: ['type']
     }
 };
+/**
+ *
+ * @type {{PET: string, OPA: string, BOPP: string, Aluminium: string, Reserved: string, Reserviert: string}}
+ */
 const icons = {
-    PET:  'img/placeholder-icon.png',
-    OPA:  'img/placeholder-icon.png',
-    BOPP:  'img/placeholder-icon.png',
+    PET: 'img/placeholder-icon.png',
+    OPA: 'img/placeholder-icon.png',
+    BOPP: 'img/placeholder-icon.png',
     Aluminium: 'img/placeholder-icon.png',
-    Reserved:  'img/placeholder-icon.png',
-    Reserviert:  'img/placeholder-icon.png'
-}
+    Reserved: 'img/placeholder-icon.png',
+    Reserviert: 'img/placeholder-icon.png'
+};
 let selectedId;
-// run into CORS while serving .json local on Chrome - run in firefox for developent
-const jsonRequest = new Request.JSON({
+// run into CORS while serving .json locally on Chrome - run in firefox for developent
+new Request.JSON({
     url: 'navigation.json',
     headers: {'Access-Control-Allow-Headers': ' X-Requested-With'},
-    onSuccess: function(navigation){
+    onSuccess: function (navigation) {
         buildMultiSelection(navigation, '.nav.site-nav', '.flyout.first-item', 0).inject('ms-wrapper')
-    }}).send();
+    }
+}).send();
 
-function buildMultiSelection(navigation, ulClasses, liClasses,level, type) {
+/**
+ * Build the multi selection
+ * @param navigation the JSON Response
+ * @param ulClasses CSS Classes
+ * @param liClasses CSS Classes
+ * @param level, is the level of the current selectable-group
+ * @param type, main type of the selection eg. 'PET', 'OPA'
+ * @returns {Element}
+ */
+function buildMultiSelection(navigation, ulClasses, liClasses, level, type) {
     let multiSelection = new Element('ul' + ulClasses);
     let headline = new Element('h3');
     headline.inject(multiSelection);
-    navigation.forEach(function(selectable) {
+    navigation.forEach(function (selectable) {
         let anchor = createAnchor(selectable);
         if (level === 0) {
-            type = locale === 'de'? selectable.titleDe: selectable.titleEn;
+            type = locale === 'de' ? selectable.titleDe : selectable.titleEn;
             let icon = createIcon(type);
             icon.inject(anchor)
         }
         new Element('span', {
-            text: locale === 'de'? selectable.titleDe: selectable.titleEn,
+            text: locale === 'de' ? selectable.titleDe : selectable.titleEn,
         }).inject(anchor);
         let listElement = new Element('li' + liClasses).grab(anchor);
-        if(selectable.children != null){
+        if (selectable.children != null) {
             listElement.grab(
-                buildMultiSelection(selectable.children, '.flyout-content.nav.stacked', '.flyout-alt', level+1, type)
+                buildMultiSelection(selectable.children, '.flyout-content.nav.stacked', '.flyout-alt', level + 1, type)
             );
         }
         multiSelection.grab(listElement);
@@ -59,12 +77,21 @@ function buildMultiSelection(navigation, ulClasses, liClasses,level, type) {
     return multiSelection;
 }
 
-function enableSearch(executable){
+/**
+ * enables the search button if a clicked selectable is executable
+ * @param executable
+ */
+function enableSearch(executable) {
     $$('button').setProperties({
         disabled: !executable
     })
 }
 
+/**
+ * remove the clicked class of all interleaved classes in the DOM-Tree
+ * @param element
+ * @param className
+ */
 function recursiveRemoveClass(element, className) {
     if (element.children) {
         for (let i = 0; i < element.children.length; i++) {
@@ -73,8 +100,14 @@ function recursiveRemoveClass(element, className) {
     }
     element.removeClass(className);
 }
+
+/**
+ *
+ * @param selectable
+ * @returns {Element}
+ */
 function createAnchor(selectable) {
-    return new Element('a',{
+    return new Element('a', {
         href: '#',
         events: {
             click: function (event) {
@@ -86,6 +119,14 @@ function createAnchor(selectable) {
         }
     });
 }
+
+/**
+ * Creates an Icon Element for the given type.
+ * The icon for a type must be specified in the icons array,
+ * keep in mind that you have to handle them for each locale.
+ * @param type like 'PET', 'OPA' ...
+ * @returns {Element} HTMLImageElement
+ */
 function createIcon(type) {
     return new Element('img', {
         src: icons[type],
@@ -95,24 +136,25 @@ function createIcon(type) {
 }
 
 /**
- * Makes a get request and
+ * Makes a get request and inject the result into the stock-table div element
  */
 function showTable() {
     const table = $('stock-table');
     new Request({
         url: 'example.php',
         method: 'get',
-        onRequest: function(){
+        onRequest: function () {
             table.set('text', 'loading...');
         },
-        onSuccess: function(responseText){
+        onSuccess: function (responseText) {
             table.set('text', responseText);
         },
-        onFailure: function(){
+        onFailure: function () {
             table.set('text', 'Sorry, your search ' + selectedId + ' could not be loaded.');
         }
     }).send('param=' + selectedId);
 }
+
 // function loadJSON(callback) {
 //     var xobj = new XMLHttpRequest();
 //     xobj.overrideMimeType("application/json");
