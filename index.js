@@ -93,6 +93,26 @@ function createIcon(type) {
         alt: 'icon'
     })
 }
+
+/**
+ * Makes a get request and
+ */
+function showTable() {
+    const table = $('stock-table');
+    new Request({
+        url: 'example.php',
+        method: 'get',
+        onRequest: function(){
+            table.set('text', 'loading...');
+        },
+        onSuccess: function(responseText){
+            table.set('text', responseText);
+        },
+        onFailure: function(){
+            table.set('text', 'Sorry, your search ' + selectedId + ' could not be loaded.');
+        }
+    }).send('param=' + selectedId);
+}
 // function loadJSON(callback) {
 //     var xobj = new XMLHttpRequest();
 //     xobj.overrideMimeType("application/json");
