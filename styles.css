@@ -274,7 +274,7 @@ h7 {
 .site-nav .first-item > a {
     color: #283461;
     font-weight: bold;
-    padding: 20px 32px;
+    padding: 26px 32px;
     /* margin-top: 5px; */
     border-bottom: 6px solid white;
     display: inline-block;
@@ -297,7 +297,7 @@ h7 {
 
 .site-nav .last-item.clicked a {
   padding: 24px;
-  font-size: 21px;
+  font-weight: bold;
 }
 
 .site-nav .last-item > a:after, .site-nav .last-item > a:before {
@@ -342,7 +342,7 @@ h7 {
   }
   .site-nav .flyout-alt.clicked > a {
     border-bottom: 6px solid white;
-    border-top: 6px solid white;
+    /* border-top: 6px solid white; */
   }
   .clicked > a:after, .clicked > a:before {
     top: 100%;
@@ -381,5 +381,8 @@ h7 {
     padding-left: 24px;
     padding-bottom: 16px;
     cursor: pointer;
+  }
+  .site-nav .first-item > a {
+    padding: 16px 32px;
   }
 }
