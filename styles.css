@@ -14,6 +14,16 @@ ul{
 a{
     text-decoration:none;
 }
+h7 {
+  display: block;
+  font-family: Merriweather;
+  font-size: 18px;
+  font-weight: 300;
+  font-style: italic;
+  line-height: 1.59;
+  color: #555555;
+  padding-bottom: 6px;
+}
 
 /*------------------------------------*\
     $NAV
@@ -107,15 +117,13 @@ a{
 
 /* HOVER ONLY ON DESKTOP BROS */
 
-@media only screen and (min-width: 1024px) {
 
   /* Alternative flyouts sit all the way from the left, flush top. */
-  .flyout-alt:hover > .flyout-content{
+  /* .flyout-alt:hover > .flyout-content{
       top:100%;
       left: 100%;
-  }
+  } */
 
-}
 
 .clicked > .flyout-content{
     /* Give the flyouts their height back once they come into view. */
@@ -155,10 +163,11 @@ a{
  */
 .site-nav .flyout:hover > a /* [1] */,
 .site-nav .flyout-alt:hover > a /* [1] */,
-.site-nav .clicked > a{
-    background-color:#e5e5e5;
-    color:#868686;
-    background-color: #8ebde4;
+.site-nav .clicked > a,
+.site-nav .first-item.clicked > a {
+    /* background-color:#e5e5e5;
+    color:#868686; */
+    background-color: #7dc0f0;
     color: white;
 }
 
@@ -183,7 +192,7 @@ a{
     #fff  /* [3] */;
 }
 .site-nav > li > a{
-    /* border-left-width:1px; /* [4] */ */
+    /* border-left-width:1px; /* [4] */
 }
 /* The first link in the site-nav doesn’t require a border at all. */
 .site-nav > li:first-child > a{
@@ -214,9 +223,11 @@ a{
   padding-left: 24px;
 }
 
-/* Arrow for Desktop */
+/* Desktop */
 
 @media only screen and (min-width: 1024px) {
+
+/* Arrow */
 
 .clicked > a:after, .clicked > a:before {
 	left: 100%;
@@ -231,7 +242,7 @@ a{
 }
 .clicked > a:after {
 	border-color: rgba(241, 242, 242, 0);
-	border-left-color: #8ebde4;
+	border-left-color: #7dc0f0;
 	border-width: 20px;
 	margin-top: -20px;
 }
@@ -242,26 +253,41 @@ a{
 	margin-top: -28px;
 }
 
+/* Captions */
+
+.site-nav h7 {
+  position: absolute;
+  top: -36px;
 }
+
+}
+
+/* OPA > 1 > 15my */
 
 /* First items first (BIG) */
 
-.site-nav .first-item {
+.site-nav .first-item > a {
   color: #283461;
   font-weight: bold;
-  padding: 16px 32px;
+  padding: 20px 32px;
   /* margin-top: 5px; */
-  border: 3px solid white;
+  border-bottom: 6px solid white;
+  display: inline-block;
+  min-width: 220px;
+}
+
+.site-nav .first-item:last-child > a {
+  border: 0;
 }
 
 .site-nav .first-item img {
   margin-right: 24px;
 }
 
-.site-nav .first-item span {
+.site-nav .first-item > a > span {
   display: inline-block;
   vertical-align: top;
-  padding-top: 24px;
+  padding-top: 20px;
 }
 
 /* Wrapper */
@@ -279,22 +305,21 @@ a{
   .site-nav .flyout {
     display: block;
     width: 100%;
-    border-bottom: 6px solid white;
+    /* border-bottom: 6px solid white; */
   }
   .site-nav .flyout-content {
     display: block;
     width: 100%;
     border-left: 0;
-    border-top: 6px solid white;
+    /* border-top: 6px solid white; */
   }
   .site-nav a {
     display: block;
     width: 100%;
   }
-  .site-nav .clicked {
-    display: block;
-    width: 100%;
+  .site-nav .flyout-alt.clicked > a {
     border-bottom: 6px solid white;
+    border-top: 6px solid white;
   }
   .clicked > a:after, .clicked > a:before {
     top: 100%;
@@ -309,7 +334,7 @@ a{
   }
   .clicked > a:after {
     border-color: rgba(142, 189, 228, 0);
-  	border-top-color: #8ebde4;
+  	border-top-color: #7dc0f0;
   	border-width: 20px;
   	margin-left: -20px;
   }
@@ -319,29 +344,18 @@ a{
   	border-width: 28px;
   	margin-left: -28px;
   }
-  /**
-   * Bring the flyouts into view when you hover their parents.
-   * Two different types of flyout; ‘regular’ (`.flyout`) and ‘alternative’ (`.flyout-alt`).
-   */
-  /* Regular flyouts sit all the way from the top, flush left. */
-  .clicked > .flyout-content{
-      left: 0;
-      top: 0;
-  }
-  /* Alternative flyouts sit all the way from the left, flush top. */
-  /* .site-nav .flyout-alt:hover > .flyout-content{
-      top:100%;
-      left: 0;
-      position: static;
-  } */
   .flyout-alt {
     position: static;
   }
-
   .clicked > .flyout-content{
       /* Give the flyouts their height back once they come into view. */
       height:auto;
       overflow:visible;
       position: static;
+  }
+  h7 {
+    padding-top: 16px;
+    padding-left: 24px;
+    padding-bottom: 8px;
   }
 }

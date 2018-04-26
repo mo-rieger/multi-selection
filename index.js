@@ -52,7 +52,7 @@ new Request.JSON({
  */
 function buildMultiSelection(navigation, ulClasses, liClasses, level, type) {
     let multiSelection = new Element('ul' + ulClasses);
-    let headline = new Element('h3');
+    let headline = new Element('h7');
     headline.inject(multiSelection);
     navigation.forEach(function (selectable) {
         let anchor = createAnchor(selectable);
@@ -130,7 +130,7 @@ function createAnchor(selectable) {
 function createIcon(type) {
     return new Element('img', {
         src: icons[type],
-        height: 55,
+        height: 48,
         alt: 'icon'
     })
 }
