@@ -56,12 +56,13 @@ function buildMultiSelection(navigation, ulClasses, liClasses, level, type) {
         events: {
             click: function (event) {
                 recursiveRemoveClass(event.target.getParent('ul'), 'clicked');
+                event.target.getSiblings('li').forEach(li => recursiveRemoveClass(li, 'hidden-mobile'));
             }
         }
     });
     headline.inject(multiSelection);
     navigation.forEach(function (selectable) {
-        let anchor = createAnchor(selectable);
+        let anchor = createAnchor(selectable, level);
         if (level === 0) {
             type = locale === 'de' ? selectable.titleDe : selectable.titleEn;
             let icon = createIcon(type);
@@ -75,6 +76,8 @@ function buildMultiSelection(navigation, ulClasses, liClasses, level, type) {
             listElement.grab(
                 buildMultiSelection(selectable.children, '.flyout-content.nav.stacked', '.flyout-alt', level + 1, type)
             );
+        } else {
+            listElement.addClass('last-item')
         }
         multiSelection.grab(listElement);
     });
@@ -112,14 +115,18 @@ function recursiveRemoveClass(element, className) {
  * @param selectable
  * @returns {Element}
  */
-function createAnchor(selectable) {
+function createAnchor(selectable, level) {
     return new Element('a', {
         href: '#',
         events: {
             click: function (event) {
-                recursiveRemoveClass(event.target.getParent('ul'), 'clicked');
                 let selected = event.target.getParent('li')
-                selected.getSiblings().addClass('hidden-mobile')
+                recursiveRemoveClass(selected.getParent('ul'), 'clicked');
+                if(level > 0 ) {
+                    selected.getSiblings('li').addClass('hidden-mobile')
+                } else {
+                    recursiveRemoveClass(selected.getParent('ul'), 'hidden-mobile')
+                }
                 selected.addClass('clicked');
                 selectedId = selectable.id;
                 enableSearch(selectable.executable);
