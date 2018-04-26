@@ -52,7 +52,13 @@ new Request.JSON({
  */
 function buildMultiSelection(navigation, ulClasses, liClasses, level, type) {
     let multiSelection = new Element('ul' + ulClasses);
-    let headline = new Element('h7');
+    let headline = new Element('h7', {
+        events: {
+            click: function (event) {
+                recursiveRemoveClass(event.target.getParent('ul'), 'clicked');
+            }
+        }
+    });
     headline.inject(multiSelection);
     navigation.forEach(function (selectable) {
         let anchor = createAnchor(selectable);
@@ -112,7 +118,9 @@ function createAnchor(selectable) {
         events: {
             click: function (event) {
                 recursiveRemoveClass(event.target.getParent('ul'), 'clicked');
-                event.target.getParent('li').addClass('clicked');
+                let selected = event.target.getParent('li')
+                selected.getSiblings().addClass('hidden-mobile')
+                selected.addClass('clicked');
                 selectedId = selectable.id;
                 enableSearch(selectable.executable);
             }
