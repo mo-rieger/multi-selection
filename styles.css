@@ -306,73 +306,66 @@ h7 {
 /* Mobile */
 
 @media only screen and (max-width: 1023px) {
-    .site-nav {
-        width: 100%;
-    }
-
-    .site-nav .flyout {
-        display: block;
-        width: 100%;
-        /* border-bottom: 6px solid white; */
-    }
-
-    .site-nav .flyout-content {
-        display: block;
-        width: 100%;
-        border-left: 0;
-        /* border-top: 6px solid white; */
-    }
-
-    .site-nav a {
-        display: block;
-        width: 100%;
-    }
-
-    .site-nav .flyout-alt.clicked > a {
-        border-bottom: 6px solid white;
-        border-top: 6px solid white;
-    }
-
-    .clicked > a:after, .clicked > a:before {
-        top: 100%;
-        left: 50%;
-        border: solid transparent;
-        content: " ";
-        height: 0;
-        width: 0;
-        position: absolute;
-        pointer-events: none;
-        z-index: 10000;
-    }
-
-    .clicked > a:after {
-        border-color: rgba(142, 189, 228, 0);
-        border-top-color: #7dc0f0;
-        border-width: 20px;
-        margin-left: -20px;
-    }
-
-    .clicked > a:before {
-        border-color: rgba(255, 255, 255, 0);
-        border-top-color: #ffffff;
-        border-width: 28px;
-        margin-left: -28px;
-    }
-
-    .flyout-alt {
-        position: static;
-    }
-
-    .clicked > .flyout-content {
-        /* Give the flyouts their height back once they come into view. */
-        height: auto;
-        overflow: visible;
-        position: static;
-    }
-
-    h7 {
-        padding-top: 16px;
-        padding-left: 24px;
-        padding-bottom: 8px;
-    }
+  .hidden-mobile {
+    display: none;
+  }
+  .site-nav {
+    width: 100%;
+  }
+  .site-nav .flyout {
+    display: block;
+    width: 100%;
+    /* border-bottom: 6px solid white; */
+  }
+  .site-nav .flyout-content {
+    display: block;
+    width: 100%;
+    border-left: 0;
+    /* border-top: 6px solid white; */
+  }
+  .site-nav a {
+    display: block;
+    width: 100%;
+  }
+  .site-nav .flyout-alt.clicked > a {
+    border-bottom: 6px solid white;
+    border-top: 6px solid white;
+  }
+  .clicked > a:after, .clicked > a:before {
+    top: 100%;
+  	left: 50%;
+  	border: solid transparent;
+  	content: " ";
+  	height: 0;
+  	width: 0;
+  	position: absolute;
+  	pointer-events: none;
+    z-index: 10000;
+  }
+  .clicked > a:after {
+    border-color: rgba(142, 189, 228, 0);
+  	border-top-color: #7dc0f0;
+  	border-width: 20px;
+  	margin-left: -20px;
+  }
+  .clicked > a:before {
+    border-color: rgba(255, 255, 255, 0);
+  	border-top-color: #ffffff;
+  	border-width: 28px;
+  	margin-left: -28px;
+  }
+  .flyout-alt {
+    position: static;
+  }
+  .clicked > .flyout-content{
+      /* Give the flyouts their height back once they come into view. */
+      height:auto;
+      overflow:visible;
+      position: static;
+  }
+  h7 {
+    padding-top: 16px;
+    padding-left: 24px;
+    padding-bottom: 8px;
+  }
 }
