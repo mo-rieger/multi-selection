@@ -236,7 +236,7 @@ h7 {
 @media only screen and (min-width: 1024px) {
 
     /* Arrow */
-    .clicked > a:after, .clicked > a:before {
+    .site-nav .clicked > a:after, .clicked > a:before {
         left: 100%;
         top: 50%;
         border: solid transparent;
@@ -248,14 +248,14 @@ h7 {
         pointer-events: none;
     }
 
-    .clicked > a:after {
+    .site-nav .clicked > a:after {
         border-color: rgba(241, 242, 242, 0);
         border-left-color: #7dc0f0;
         border-width: 20px;
         margin-top: -20px;
     }
 
-    .clicked > a:before {
+    .site-nav .clicked > a:before {
         border-color: rgba(255, 255, 255, 0);
         border-left-color: #ffffff;
         border-width: 28px;
@@ -268,8 +268,6 @@ h7 {
         top: -36px;
     }
 }
-
-/* OPA > 1 > 15my */
 
 /* First items first (BIG) */
 
@@ -295,6 +293,20 @@ h7 {
     display: inline-block;
     vertical-align: top;
     padding-top: 20px;
+}
+
+.site-nav .last-item.clicked a {
+  padding: 24px;
+  font-size: 21px;
+}
+
+.site-nav .last-item > a:after, .site-nav .last-item > a:before {
+  display: none;
+}
+
+.site-nav .last-item.clicked > a span:before {
+  display: inline;
+  content: "✓ ";
 }
 
 /* Wrapper */
@@ -366,7 +378,7 @@ h7 {
   h7 {
     padding-top: 16px;
     padding-left: 24px;
-    padding-bottom: 8px;
-      cursor: pointer;
+    padding-bottom: 16px;
+    cursor: pointer;
   }
 }
