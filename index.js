@@ -123,13 +123,14 @@ function createAnchor(selectable, level) {
                 let selected = event.target.getParent('li')
                 recursiveRemoveClass(selected.getParent('ul'), 'clicked');
                 if(level > 0 ) {
-                    selected.getSiblings('li').addClass('hidden-mobile')
+                    selected.getSiblings('li').addClass('hidden-mobile');
                 } else {
-                    recursiveRemoveClass(selected.getParent('ul'), 'hidden-mobile')
+                    recursiveRemoveClass(selected.getParent('ul'), 'hidden-mobile');
                 }
                 selected.addClass('clicked');
                 selectedId = selectable.id;
                 enableSearch(selectable.executable);
+                return false;
             }
         }
     });
