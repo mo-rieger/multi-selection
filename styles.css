@@ -306,7 +306,8 @@ h7 {
 
 .site-nav .last-item.clicked > a span:before {
   display: inline;
-  content: "✓ ";
+  content: "✓";
+  margin-right: 8px;
 }
 
 /* Wrapper */
