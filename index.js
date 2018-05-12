@@ -33,13 +33,13 @@ const icons = {
 };
 let selectedId;
 // run into CORS while serving .json locally on Chrome - run in firefox for developent
-new Request.JSON({
-    url: 'navigation.json',
-    headers: {'Access-Control-Allow-Headers': ' X-Requested-With'},
-    onSuccess: function (navigation) {
-        buildMultiSelection(navigation, '.nav.site-nav', '.flyout.first-item', 0).inject('ms-wrapper')
-    }
-}).send();
+// new Request.JSON({
+//     url: 'navigation.json',
+//     headers: {'Access-Control-Allow-Headers': ' X-Requested-With'},
+//     onSuccess: function (navigation) {
+//         buildMultiSelection(navigation, '.nav.site-nav', '.flyout.first-item', 0).inject('ms-wrapper')
+//     }
+// }).send();
 
 /**
  * Build the multi selection
@@ -171,21 +171,19 @@ function showTable() {
     }).send('param=' + selectedId);
 }
 
-// function loadJSON(callback) {
-//     var xobj = new XMLHttpRequest();
-//     xobj.overrideMimeType("application/json");
-//     xobj.open('GET', 'navigation.json', true);
-//     xobj.onreadystatechange = function () {
-//         if (xobj.readyState == 4 && xobj.status == "200") {
-//             // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
-//             callback(xobj.responseText);
-//         }
-//     };
-//     xobj.send(null);
-// }
+function loadJSON(callback) {
+    var xobj = new XMLHttpRequest();
+    xobj.overrideMimeType("application/json");
+    xobj.open('GET', 'navigation.json', true);
+    xobj.onreadystatechange = function () {
+        if (xobj.readyState == 4 && xobj.status == "200") {
+            // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
+            callback(xobj.responseText);
+        }
+    };
+    xobj.send(null);
+}
 
-// loadJSON(res => {
-//     navigation = JSON.parse(res)
-//     console.log(navigation)
-//     buildMultiSelection(navigation)
-// })
+loadJSON(res => {
+    buildMultiSelection(JSON.parse(res), '.nav.site-nav', '.flyout.first-item', 0).inject('ms-wrapper');
+})
