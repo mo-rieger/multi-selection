@@ -124,6 +124,14 @@ function createAnchor(selectable, level) {
                 recursiveRemoveClass(selected.getParent('ul'), 'clicked');
                 if(level > 0 ) {
                     selected.getSiblings('li').addClass('hidden-mobile');
+                    // make all items visible when clicked an item in a higher hierarchy
+                    selected.getChildren('ul').forEach(ul => {
+                        ul.getChildren('li').forEach(li => {
+                            if(li.hasClass('hidden-mobile')){
+                                recursiveRemoveClass(ul, 'hidden-mobile')
+                            }
+                        })
+                    })
                 } else {
                     recursiveRemoveClass(selected.getParent('ul'), 'hidden-mobile');
                 }
